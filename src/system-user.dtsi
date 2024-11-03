@@ -6,4 +6,6 @@
 };
 
 // Custom IP map to UIO
-
+&example_0 {
+compatible = "generic-uio";
+};
